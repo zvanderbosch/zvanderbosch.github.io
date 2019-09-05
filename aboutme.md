@@ -4,10 +4,12 @@ title: About me
 subtitle: Astronomy Ph.D. Student, UT Austin
 ---
 
+<p align="center">
 
 ### zvanderbosch@astro.as.utexas.edu
+</p>
 
-Hi! I'm currently a 5th year Astronomy Ph.D. student at the Univeristy of Texas at Austin studying the class of pulsating helium-atmosphere white dwarf stars. I work on the discovery and the collection and analysis of spectra of these objects using the 2.1-meter Otto Struve Telescope and the 10-meter Hobby Eberly Telescope (HET) at McDonald Observatory.  My goal is to provide stronger empirical constraints on the range of temperatures over which we observe these objects to pulsate so that we can better compare observations with theoretical models.
+Hi! I'm an Astronomy Ph.D. student at the Univeristy of Texas at Austin studying the class of pulsating helium-atmosphere white dwarf stars. I work on the discovery and the collection and analysis of spectra of these objects using the 2.1-meter Otto Struve Telescope and the 10-meter Hobby Eberly Telescope (HET) at McDonald Observatory.  My goal is to provide stronger empirical constraints on the range of temperatures over which we observe these objects to pulsate so that we can better compare observations with theoretical models.
 
 I'm also very interested in working with the data produced by current and forthcoming large scale time domain surveys such as the Zwicky Transient Facility (ZTF) and the Large Synoptic Survey Telescope (LSST).  In particular, I'm interested in using their real-time transient alerts to identify pulsating white dwarf stars undergoing rare and interesting brightening events called "outbursts." These events are short lived (<24 hours) and recur unpredictably on timescales of days, making them difficult to observe without investing huge amounts of telescope time.  With the capability to monitor huge areas of the sky each night for objects which change brightness over time, time domain surveys and their real-time alerts offer a new way to detect and rapidly follow up outburst events using other telescopes.
 
