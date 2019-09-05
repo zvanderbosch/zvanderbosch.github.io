@@ -22,8 +22,8 @@ description: My Personal Website
 navbar-links:
   About Me: "aboutme"
   Projects: "projects"
-    - ZTF Analysis: "projects/ztf_analysis"
-    - J0139 Monitoring: "projects/j0139_monitoring"
+    - ZTF Analysis: "ztf_analysis"
+    - J0139 Monitoring: "j0139_monitoring"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
