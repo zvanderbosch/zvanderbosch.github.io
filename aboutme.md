@@ -3,10 +3,9 @@ layout: page
 title: About me
 subtitle: Astronomy Ph.D. Student, UT Austin
 ---
-
 <p align="center">
-
-### zvanderbosch@astro.as.utexas.edu
+  
+   ### zvanderbosch@astro.as.utexas.edu
 </p>
 
 Hi! I'm an Astronomy Ph.D. student at the Univeristy of Texas at Austin studying the class of pulsating helium-atmosphere white dwarf stars. I work on the discovery and the collection and analysis of spectra of these objects using the 2.1-meter Otto Struve Telescope and the 10-meter Hobby Eberly Telescope (HET) at McDonald Observatory.  My goal is to provide stronger empirical constraints on the range of temperatures over which we observe these objects to pulsate so that we can better compare observations with theoretical models.
