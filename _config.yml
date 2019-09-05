@@ -21,10 +21,13 @@ description: My Personal Website
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Projects: "projects"
+    - ZTF Analysis: "ztfanalysis"
+    - J0139 Monitoring: "j0139monitoring"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://zachvanderbosch.com"
+  Home: "http://zachvanderbosch.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -69,15 +72,15 @@ author:
 social-network-links:
   rss: true
   email: "zvanderbosch@astro.as.utexas.edu"
-  facebook: deanattali
+  facebook: zvanderbosch
   github: zvanderbosch
   twitter: ZachVanderbosch
+  instagram: vanderbander
+#  stackoverflow: "3943160/daattali"
 #  reddit: yourname
 #  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
+#  xing: yourname=
 #  snapchat: deanat78
-#  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -89,11 +92,11 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  github: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "zvanderbosch.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "zvanderbosch.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
