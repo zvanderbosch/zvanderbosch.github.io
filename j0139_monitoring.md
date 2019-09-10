@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ZTF J0139+5245 
-subtitle: Photometric Monitoring from the ZTF and LCO
+subtitle: Photometric Monitoring from the ZTF and LCOGT
 ---
 
-Below are the available photometric data for ZTF J0139+5245 from the [Zwicky Transient Facility (ZTF)](https://www.ztf.caltech.edu/) through DR1 and from ongoing [Las Cumbres Observatory (LCOGT)](https://lco.global/) 1.0-meter observations.  This object is a white dwarf that was discovered to exhibit irregularly-shaped transit events [(Vanderbosch et al. 2019)](https://ui.adsabs.harvard.edu/abs/2019arXiv190809839V/abstract) in it's ZTF data and is being monitored now for similar events.  ZTF public data releases only occur once every six months.
+Below are the available photometric data for ZTF J0139+5245 from the [Zwicky Transient Facility (ZTF)](https://www.ztf.caltech.edu/) through DR1 and from ongoing [Las Cumbres Observatory (LCOGT)](https://lco.global/) 1.0-meter observations.  This object is a white dwarf that was discovered to exhibit irregularly-shaped transit events ([Vanderbosch et al. 2019](https://ui.adsabs.harvard.edu/abs/2019arXiv190809839V/abstract)) in it's ZTF data and is being monitored now for similar events.  ZTF public data releases only occur once every six months.
 
 Last Updated on September 10th, 2019
 {% include my_bokeh_file.html %}
