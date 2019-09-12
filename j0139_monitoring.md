@@ -8,8 +8,8 @@ Below are the available photometric data for ZTF J0139+5245 from the [Zwicky Tra
 
 | **RA-Dec**        |  01:39:06.17  +52:45:36.89  |
 |------------------:|:----------------------------|
-| **PS1 *g*-mag**   |  $18.48\pm0.01$             |
-| **PS1 *r*-mag**   |  $18.49\pm0.01$             | 
+| **PS1 *g*-mag**   |  $$18.48\pm0.01$$           |
+| **PS1 *r*-mag**   |  $$18.49\pm0.01$$           | 
 
 
 Last Updated on **September 11th, 2019**
