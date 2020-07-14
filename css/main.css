@@ -40,6 +40,13 @@ blockquote {
 img[src*='#center'] { 
     display: block;
     margin: auto;
+    max-width: 20%;
+}
+img[src$="#right"] {
+  float: right;
+}
+img[src$="#left"] {
+  float: left;
 }
 blockquote p:first-child {
   margin-top: 0;
