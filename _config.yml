@@ -22,6 +22,7 @@ description: My Personal Website
 navbar-links:
   About Me: "aboutme"
   Projects:
+    - phot2lc: "phot2lc"
     - ZTF Analysis: "ztf_analysis"
     - J0139 Monitoring: "j0139_monitoring"
   Home: "http://zvanderbosch.github.io"
