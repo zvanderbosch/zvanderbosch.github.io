@@ -21,6 +21,7 @@ description: My Personal Website
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Publications: "publications"
   Projects:
     - phot2lc: "phot2lc"
     - ZTF Analysis: "ztf_analysis"
