@@ -3,9 +3,8 @@ layout: page
 title: phot2lc
 subtitle: A pure-Python Light Curve Extraction Suite
 ---
-[Github Page](https://github.com/zvanderbosch/phot2lc)      [![PyPI](https://img.shields.io/pypi/v/phot2lc.svg)](https://pypi.org/project/phot2lc/)      [![Docs](https://readthedocs.org/projects/phot2lc/badge/?version=latest)](https://phot2lc.readthedocs.io/en/latest/?badge=latest)
+[![PyPI](https://img.shields.io/pypi/v/phot2lc.svg)](https://pypi.org/project/phot2lc/)      [![Github Link](img/GitHub-Mark-64px.png)](https://github.com/zvanderbosch/phot2lc)      [![Docs](https://readthedocs.org/projects/phot2lc/badge/?version=latest)](https://phot2lc.readthedocs.io/en/latest/?badge=latest)
 
-![Github Link](img/GitHub-Mark-64px.png)
 
 Throughout my time as an observational astronomy PhD student, I have obtained and reduced enough data to fill up my computer hard drive several times over. My data typically come in the form of time-series photometry, meaning that when I'm at the telescope I will observe a single star for several hours at a time, taking one image after another in 5-10 second intervals, often resulting in hundreds or even thousands of images per night (about 1 GB). Ultimately, these images will need to be converted into light curves, which are the final data product indicating a star's brightness versus time, typically in units of percent change relative to the average brightness. To get from raw images to light curves, the following steps are performed:
 
