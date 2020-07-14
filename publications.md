@@ -2,8 +2,7 @@
 layout: page
 title: Publications
 ---
-Below is a list of both first-author papers and co-author papers I have been involved with:
-[[ADS](), [ArXiv]()]
+Below is a list of first-author papers and co-author papers I have been involved with:
 
 ### First Author Refereed Publications
 
