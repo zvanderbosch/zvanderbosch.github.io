@@ -8,7 +8,7 @@ subtitle: A pure-Python Light Curve Extraction Suite
         <img src="https://img.shields.io/pypi/v/phot2lc.svg" width="100" />
     </a>
     <a href="https://github.com/zvanderbosch/phot2lc">
-        <img src="/img/GitHub-Mark-64px.png" width="60" /> 
+        <img src="/img/GitHub-Mark-120px-plus.png" width="60" /> 
     </a>
     <a href="https://phot2lc.readthedocs.io/en/latest/?badge=latest">
         <img src="https://readthedocs.org/projects/phot2lc/badge/?version=latest" width="100" />
