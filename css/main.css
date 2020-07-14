@@ -36,6 +36,11 @@ blockquote {
   color: #808080;
   font-style: italic;
 }
+/** IMAGE CENTERING CSS **/
+img[src*='#center'] { 
+    display: block;
+    margin: auto;
+}
 blockquote p:first-child {
   margin-top: 0;
 }
