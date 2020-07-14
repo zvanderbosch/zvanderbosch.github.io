@@ -15,12 +15,27 @@ Throughout my time as an observational astronomy PhD student, I have obtained an
 
 *phot2lc* handles the light curve extraction step, and is a pure-Python interactive program inspired largely by WQED ([Thompson & Mullally 2009](https://ui.adsabs.harvard.edu/abs/2009JPhCS.172a2081T/abstract), [2013](https://ui.adsabs.harvard.edu/abs/2013ascl.soft04004T/abstract)). While not nearly as extensive in its scope as WQED, *phot2lc* has several key features which make it a much more efficient and user-friendly tool for light curve extraction. The first such feature is its ease of installation. *phot2lc* is a Python package and can be installed with:
 
-pip install phot2lc
+    pip install phot2lc
 
 Detailed documentation for *phot2lc* can be found at [phot2lc.readthedocs.io](https://phot2lc.readthedocs.io/en/latest/?badge=latest)
 
 ### List of Features
 
 * Standard Light Curve Manipulation Tools:
-      - 
+    - Delete/Add single points
+    - Delete points inside and outside a drawn box
+    - Divide by a polynomial of chosen order
+    - Delete outliers with a sigma clipping routine
+    - Comparison star selection
+* Analyzes photometry for all apertures sizes at once
+* Automated determination of optimal aperture size
+* Automated determination of optimal comparison star combination
+* Barycentric time corrections with Astropy accounting for:
+    - Object RA and Dec Coordinates
+    - Observatory Location
+    - Leap Seconds
+* Additional tools for post-processing:
+    - **weldlc** for combining light curves
+    - **quicklook** for quick analysis of light curves and their periodograms
+* Automatically loads previous changes made to a light curve (i.e. same deleted points, polynomial, and comparison stars) when *phot2lc* is re-run for an object.
 
