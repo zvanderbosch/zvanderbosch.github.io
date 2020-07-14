@@ -10,5 +10,5 @@ __RA, Dec:__ 01:39:06.17,  +52:45:36.89
 __PS1 *grizy*:__ 18.48, 18.49, 18.59, 18.69, 18.78
 
 
-Last Updated on **February 2nd, 2020**
+Last Updated on **July 14th, 2020**
 {% include my_bokeh_plot.html %}
