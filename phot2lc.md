@@ -5,9 +5,9 @@ subtitle: A pure-Python Light Curve Extraction Suite
 ---
 [![PyPI](https://img.shields.io/pypi/v/phot2lc.svg#right)](https://pypi.org/project/phot2lc/)      [![Github Link](img/GitHub-Mark-64px.png#center)](https://github.com/zvanderbosch/phot2lc)      [![Docs](https://readthedocs.org/projects/phot2lc/badge/?version=latest#left)](https://phot2lc.readthedocs.io/en/latest/?badge=latest)
 
-<p align="middle>
+<p align="middle">
     <img src="https://img.shields.io/pypi/v/phot2lc.svg" width="100" />
-    <img src="img/GitHub-Mark-64px.png" width="100" /> 
+    <img src="/img/GitHub-Mark-64px.png" width="100" /> 
     <img src="https://readthedocs.org/projects/phot2lc/badge/?version=latest" width="100" />
 </p>
 
