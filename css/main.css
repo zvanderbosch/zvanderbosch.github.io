@@ -40,7 +40,7 @@ blockquote {
 img[src*='#center'] { 
     display: block;
     margin: auto;
-    max-width: 80%;
+    max-width: 100%;
 }
 blockquote p:first-child {
   margin-top: 0;
