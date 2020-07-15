@@ -17,13 +17,15 @@ subtitle: A pure-Python Light Curve Extraction Suite
 
 ![phot2lc Screenshot](/img/phot2lc_screenshot.png#center)
 
-Throughout my time as an observational astronomy PhD student, I have obtained and reduced enough data to fill up my computer hard drive several times over. My data typically come in the form of time-series photometry, meaning that when I'm at the telescope I will observe a single star for several hours at a time, taking one image after another in 5-10 second intervals, often resulting in hundreds or even thousands of images per night (about 1-2 GB). Ultimately, these images will need to be converted into light curves, which are the final data product indicating a star's brightness versus time, typically in units of percent change relative to the average brightness. To get from raw images to light curves, the following steps are performed:
+Throughout my time as an observational astronomy PhD student, I have obtained and reduced enough data to fill up my computer hard drive several times over. My data typically come in the form of time-series photometry, meaning that when I'm at the telescope I will observe a single star for several hours at a time, taking one image after another in 5-10 second intervals, often resulting in hundreds or even thousands of images per night (about 1-2 GB). Ultimately, these images will need to be converted into light curves, which are the final data product indicating a star's brightness versus time. To get from raw images to light curves, the following steps are performed:
 
 * Image Calibrations (Dark, Flat, and Bias corrections)
 * Circular Aperture Photometry
 * Light Curve Extraction
 
-*phot2lc* handles the light curve extraction step, and is a pure-Python interactive program inspired largely by WQED ([Thompson & Mullally 2009](https://ui.adsabs.harvard.edu/abs/2009JPhCS.172a2081T/abstract), [2013](https://ui.adsabs.harvard.edu/abs/2013ascl.soft04004T/abstract)). While not nearly as extensive in its scope as WQED, *phot2lc* has several key features which make it a much more efficient and user-friendly tool for light curve extraction. The first such feature is its ease of installation. *phot2lc* is a Python package and can be installed with:
+When dealing with alot of data, large amounts of time can be saved if the software tools used for data reduction are designed to increase efficiency. *phot2lc* was born from the desire to produce a more efficient tool for light curve extraction from time-series photometry, especially in the event that light curves from multiple aperture sizes need to be analyzed to determine the optimal size. 
+
+*phot2lc* is a pure-Python interactive program for light curve extraction inspired largely by WQED ([Thompson & Mullally 2009](https://ui.adsabs.harvard.edu/abs/2009JPhCS.172a2081T/abstract), [2013](https://ui.adsabs.harvard.edu/abs/2013ascl.soft04004T/abstract)). While not nearly as extensive in its scope as WQED, *phot2lc* has several key features which make it a much more efficient and user-friendly tool for light curve extraction. The first such feature is its ease of installation. *phot2lc* is a Python package and can be installed with:
 
     pip install phot2lc
 
