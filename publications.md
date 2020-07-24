@@ -7,7 +7,7 @@ Below is a list of first-author papers and co-author papers I have been involved
 ### First Author Refereed Publications
 
 "A White Dwarf with Transiting Circumstellar Material Far Outside the Roche Limit"  
-Z. Vanderbosch, J. J. Hermes, E. Dennihy, B. H. Dunlap, et al. 2020, ApJ, accepted [[ADS](https://ui.adsabs.harvard.edu/abs/2019arXiv190809839V/abstract), [ArXiv](https://arxiv.org/abs/1908.09839)]
+Z. Vanderbosch, J. J. Hermes, E. Dennihy, B. H. Dunlap, et al. 2020, ApJ, 897, 171 [[ADS](https://ui.adsabs.harvard.edu/abs/2020ApJ...897..171V/abstract), [ArXiv](https://arxiv.org/abs/1908.09839)]
 
 ### First Author Non-Refereed Publications
 
