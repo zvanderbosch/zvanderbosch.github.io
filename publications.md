@@ -7,7 +7,7 @@ Below is a list of first-author and co-author publications I have been involved 
 ### First/Second Author Refereed Publications
 
 "*I Spy Transits and Pulsations: Empirical Variability in White Dwarfs Using Gaia and the Zwicky Transient Facility*"  
-J. A. Guidry, **Z. Vanderbosch**, J. J. Hermes, et al. 2020, ApJ, submitted,  arXiv:2012.00035 [[ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv201200035G/abstract), [ArXiv](https://arxiv.org/abs/2012.00035)]
+J. A. Guidry, **Z. Vanderbosch**, J. J. Hermes, et al. 2020, ApJ, submitted [[ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv201200035G/abstract), [ArXiv](https://arxiv.org/abs/2012.00035)]
 
 "*A White Dwarf with Transiting Circumstellar Material Far Outside the Roche Limit*"  
 **Z. Vanderbosch**, J. J. Hermes, E. Dennihy, B. H. Dunlap, et al. 2020, ApJ, 897, 171 [[ADS](https://ui.adsabs.harvard.edu/abs/2020ApJ...897..171V/abstract), [ArXiv](https://arxiv.org/abs/1908.09839)]
@@ -20,7 +20,7 @@ J. A. Guidry, **Z. Vanderbosch**, J. J. Hermes, et al. 2020, ApJ, submitted,  ar
 ### Co-Author Refereed Publications
 
 "*The pulsating white dwarf G117-B15A: still the most stable optical clock known*" 
-S. O. Kepler, D. E. Winget, **Z. Vanderbosch**, et al. 2020, ApJ, accepted, arXiv:2010.16062 [[ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv201016062K/abstract), [ArXiv](https://arxiv.org/abs/2010.16062)]
+S. O. Kepler, D. E. Winget, **Z. Vanderbosch**, et al. 2020, ApJ, accepted [[ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv201016062K/abstract), [ArXiv](https://arxiv.org/abs/2010.16062)]
 
 "*WD1032+011, an inflated brown dwarf in an old eclipsing binary with a white dwarf*"  
 S. L. Casewell, C. Belardi, S. G. Parsons, ..., **Z. Vanderbosch**, et al. 2020, MNRAS, 497, 3571 [[ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv200609417C/abstract), [ArXiv](https://arxiv.org/abs/2006.09417)]
