@@ -6,8 +6,14 @@ Below is a list of first-author and co-author publications I have been involved 
 
 ### First/Second Author Refereed Publications
 
+"*Recurring Planetary Debris Transits and Circumstellar Gas around White Dwarf ZTF J0328-1219*"  
+**Z. Vanderbosch**, S. Rappaport, J. A. Guidry, et al. 2021, ApJ, accepted [[ADS](https://ui.adsabs.harvard.edu/abs/2021arXiv210602659V/abstract), [ArXiv](https://arxiv.org/abs/2106.02659)]
+
+"*Identifying Periodic Variable Stars and Eclipsing Binary Systems with Long-Term Las Cumbres Observatory Photometric Monitoring of ZTF J0139+5245*"  
+A. Sanghi, **Z. Vanderbosch**, & M. H. Montgomery 2021, AJ, submitted
+
 "*I Spy Transits and Pulsations: Empirical Variability in White Dwarfs Using Gaia and the Zwicky Transient Facility*"  
-J. A. Guidry, **Z. Vanderbosch**, J. J. Hermes, et al. 2020, ApJ, submitted [[ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv201200035G/abstract), [ArXiv](https://arxiv.org/abs/2012.00035)]
+J. A. Guidry, **Z. Vanderbosch**, J. J. Hermes, et al. 2021, ApJ, 912, 125 [[ADS](https://ui.adsabs.harvard.edu/abs/2021ApJ...912..125G/abstract), [ArXiv](https://arxiv.org/abs/2012.00035)]
 
 "*A White Dwarf with Transiting Circumstellar Material Far Outside the Roche Limit*"  
 **Z. Vanderbosch**, J. J. Hermes, E. Dennihy, B. H. Dunlap, et al. 2020, ApJ, 897, 171 [[ADS](https://ui.adsabs.harvard.edu/abs/2020ApJ...897..171V/abstract), [ArXiv](https://arxiv.org/abs/1908.09839)]
@@ -18,6 +24,9 @@ J. A. Guidry, **Z. Vanderbosch**, J. J. Hermes, et al. 2020, ApJ, submitted [[AD
 **Z. Vanderbosch**, J. C. Clemens, B. H. Dunlap, & D. E. Winget 2017, ASPC, 509, 571 [[ADS](https://ui.adsabs.harvard.edu/abs/2017ASPC..509..571V/abstract)]
 
 ### Co-Author Refereed Publications
+
+"*The Heating and Pulsations of V386 Serpentis after Its 2019 Dwarf Nova Outburst*" 
+P. Szkody, P. Godon, B. T. Gaensicke, ..., **Z. Vanderbosch**, et al. 2021, ApJ, 914, 40 [[ADS](https://ui.adsabs.harvard.edu/abs/2021ApJ...914...40S/abstract), [ArXiv](https://arxiv.org/abs/2104.14720)]
 
 "*The pulsating white dwarf G117-B15A: still the most stable optical clock known*" 
 S. O. Kepler, D. E. Winget, **Z. Vanderbosch**, et al. 2020, ApJ, accepted [[ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv201016062K/abstract), [ArXiv](https://arxiv.org/abs/2010.16062)]
