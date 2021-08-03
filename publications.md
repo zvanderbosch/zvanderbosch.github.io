@@ -10,7 +10,7 @@ Below is a list of first-author and co-author publications I have been involved 
 **Z. Vanderbosch**, S. Rappaport, J. A. Guidry, et al. 2021, ApJ, accepted [[ADS](https://ui.adsabs.harvard.edu/abs/2021arXiv210602659V/abstract), [ArXiv](https://arxiv.org/abs/2106.02659)]
 
 "*Identifying Periodic Variable Stars and Eclipsing Binary Systems with Long-Term Las Cumbres Observatory Photometric Monitoring of ZTF J0139+5245*"  
-A. Sanghi, **Z. Vanderbosch**, & M. H. Montgomery 2021, AJ, submitted
+A. Sanghi, **Z. Vanderbosch**, & M. H. Montgomery 2021, AJ, accepted [[ADS](https://ui.adsabs.harvard.edu/abs/2021arXiv210713548S/abstract), [ArXiv](https://arxiv.org/abs/2107.13548)]
 
 "*I Spy Transits and Pulsations: Empirical Variability in White Dwarfs Using Gaia and the Zwicky Transient Facility*"  
 J. A. Guidry, **Z. Vanderbosch**, J. J. Hermes, et al. 2021, ApJ, 912, 125 [[ADS](https://ui.adsabs.harvard.edu/abs/2021ApJ...912..125G/abstract), [ArXiv](https://arxiv.org/abs/2012.00035)]
