@@ -2,7 +2,8 @@
 layout: page
 title: Publications
 ---
-Below is a list of first-author and co-author publications I have been involved with. This list was last updated on December 4th, 2020 and corresponds to a total of 97 citations, with 33 from first author publications in high-impact peer-reviewed journals.
+
+Below is a list of all publications I have been involved with. This list was last updated on July 21st, 2021 and corresponds to a total of 13 peer-reviewed publications with 146 citations, 4 of which are first- and second-author publications in high-impact journals with 68 citations.
 
 ### First/Second Author Refereed Publications
 
