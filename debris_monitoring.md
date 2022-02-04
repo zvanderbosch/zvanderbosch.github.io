@@ -16,12 +16,3 @@ Last Updated on **January 31st, 2022**
 Most recent data point on **January 21st, 2022**
 {% include j0139_bokeh_plot.html %}
 
-
-<!-- ---
-
-
-A newly discovered system exihibiting dips similar those seen in ZTF J0139+5245, but recurring on a slightly longer timescale of about 180-190 days. Currently investigating the nature of this object, but providing the ZTF and LCO data here for those interested in monitorig the dip events. The midpoint of the next dip is expected around March 22nd.
-
-
-{% include new_bokeh_plot.html %}
- -->
