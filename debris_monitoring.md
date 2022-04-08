@@ -25,5 +25,5 @@ A newly discovered system exihibiting dips similar those seen in ZTF J0139+5245,
 
 
 Last Updated on **April 8th, 2022**  
-Most recent data point on **April 7th, 2022**
+Most recent data point on **April 8th, 2022**
 {% include new_bokeh_plot.html %}
