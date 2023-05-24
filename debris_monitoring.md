@@ -21,9 +21,9 @@ Most recent data point on **February 20th, 2022**
 
 # New Debris Candidate
 
-A newly discovered system exihibiting dips similar those seen in ZTF J0139+5245, but recurring on a slightly longer timescale of about 180-190 days. Currently investigating the nature of this object, but providing the ZTF DR11 and ongoing LCO observations here for those interested in monitorig the dip events.
+A newly discovered system exihibiting dips similar those seen in ZTF J0139+5245, but recurring on a slightly longer timescale of about 180-190 days. Currently investigating the nature of this object, but providing the ZTF DR17 and ongoing LCO observations here for those interested in monitorig the dip events.
 
 
-Last Updated on **June 2nd, 2022**  
-Most recent data point on **June 1st, 2022**
-{% include new_bokeh_plot.html %}
+Last Updated on **May 24th, 2023**  
+Most recent data point on **May 21st, 2023**
+{% include j0850_bokeh_plot.html %}
