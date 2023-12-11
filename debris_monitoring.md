@@ -12,8 +12,8 @@ __RA, Dec:__ 01:39:06.17,  +52:45:36.89
 __PS1 *grizy*:__ 18.48, 18.49, 18.59, 18.69, 18.78
 
 
-Last Updated on **December 4th, 2023**  
-Most recent data point on **December 2nd, 2023**
+Last Updated on **December 11th, 2023**  
+Most recent data point on **December 10th, 2023**
 {% include j0139_bokeh_plot.html %}
 
 
