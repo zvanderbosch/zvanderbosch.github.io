@@ -3,9 +3,12 @@ layout: page
 title: Publications
 ---
 
-Below is a list of all publications I have been involved with. This list was last updated on July 21st, 2021 and corresponds to a total of 13 peer-reviewed publications with 146 citations, 4 of which are first- and second-author publications in high-impact journals with 68 citations.
+Below is a list of selected publications I have been involved with. This list was last updated on April 12th, 2024 and corresponds to a total of 25 peer-reviewed publications with 365 citations, 5 of which are first- and second-author publications in high-impact journals with 200 citations.
 
 ### First/Second Author Refereed Publications
+
+"*The Pulsating Helium-atmosphere White Dwarfs. I. New DBVs from the Sloan Digital Sky Survey*"  
+**Z. Vanderbosch**, J.J. Hermes, D. E. Winget, et al. 2022, ApJ, 927, 158 [[ADS](https://ui.adsabs.harvard.edu/abs/2022ApJ...927..158V/abstract), [ArXiv](https://arxiv.org/abs/2201.09893)]
 
 "*Recurring Planetary Debris Transits and Circumstellar Gas around White Dwarf ZTF J0328-1219*"  
 **Z. Vanderbosch**, S. Rappaport, J. A. Guidry, et al. 2021, ApJ, 917, 41 [[ADS](https://ui.adsabs.harvard.edu/abs/2021ApJ...917...41V/abstract), [ArXiv](https://arxiv.org/abs/2106.02659)]
