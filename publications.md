@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-Below is a list of selected publications I have been involved with (See [CV](https://zvanderbosch.com/CV/Zach_Vanderbosch_CV.pdf) for full list). This list was last updated on February 2025 and corresponds to a total of 35 peer-reviewed publications with 607 citations, 11 of which are first-, second-, and third-author publications in high-impact journals with 346 citations.
+Below is a list of selected publications I have been involved with (See [CV](https://zvanderbosch.github.io/CV/Zach_Vanderbosch_CV.pdf) for full list). This list was last updated on February 2025 and corresponds to a total of 35 peer-reviewed publications with 607 citations, 11 of which are first-, second-, and third-author publications in high-impact journals with 346 citations.
 
 ### First/Second/Third Author Refereed Publications
 
